@@ -7,8 +7,7 @@
          char shipping;
          char food;
          char agree;
-
-         //HEADER
+              
          printf("- POINT OF SALE(POS) TERMINAL - \n\n");
 
          //food Options
