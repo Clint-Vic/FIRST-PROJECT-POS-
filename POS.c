@@ -10,7 +10,7 @@
               
          printf("- POINT OF SALE(POS) TERMINAL - \n\n");
 
-         //food Options
+         // food Options
          printf("B = Burger\n");
          printf("F = Fries\n");
          printf("C = Chicken\n");
