@@ -7,5 +7,6 @@ A basic Point of Sale (POS) terminal built in C for my first Self project As a f
    - Calculates total cost.
    - Provides receipt.
 
+
   - BUILT WITH:
    - **Language:** C
